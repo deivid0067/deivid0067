@@ -11,10 +11,11 @@
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=vue-dark">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0067&show_icons=true&theme=vue-dark&layout=compact">
-</div>
+</div> <br> <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deivid0067&theme=vue)](https://github.com/deivid0067/github-readme-activity-graph)
 
 # Ferramentas e Linguagens 🔧
-
 <div>
    <p align="center">
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -28,6 +29,7 @@
    </p>
 </div>
 
- 
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:77C19AFF,100:BFDAD7F&height=120&section=footer"/>
