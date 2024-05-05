@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou Deivid Menezes 💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:E07b28,100:ffa500&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=E07b28&random=false&width=435&lines=Eae%2C+Meu+nome+%C3%A9+Deivid;Curto+Programa%C3%A7%C3%A3o;Cursando+ADS+na+SPTECH!)](https://git.io/typing-svg)
 
 📚 Estudando Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 1/5;
 <br>
@@ -7,8 +9,8 @@
 
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=dracula">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0067&show_icons=true&theme=dracula&layout=compact">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=calm_pink">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0067&show_icons=true&theme=calm_pink&layout=compact">
 </div>
 
 # Ferramentas e Linguagens 🔧
@@ -28,3 +30,4 @@
 
  
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:E07b28,100:ffa500&height=120&section=footer"/>
