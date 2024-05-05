@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:E07b28,100:ffa500&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=E07b28&random=false&width=435&lines=Eae%2C+Meu+nome+%C3%A9+Deivid;Curto+Programa%C3%A7%C3%A3o;Cursando+ADS+na+SPTECH!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=E07B28&random=false&width=435&lines=Eae%2C+meu+nome+%C3%A9+Deivid;Curto+programa%C3%A7%C3%A3o;Cursando+ADS+na+SPTECH!)](https://git.io/typing-svg)
 
 📚 Estudando Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 1/5;
 <br>
