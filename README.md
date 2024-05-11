@@ -9,14 +9,6 @@
 <br>
 
 
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=dark">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0067&show_icons=true&theme=dark&layout=compact">
-</div> <br> <br>
-
-
-
-# Ferramentas e Linguagens 
 <div>
    <p align="center">
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
