@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:BFDAD7F&height=120&section=header"/>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF5757&random=false&width=435&lines=Eae%2C+Sou+o+Deivid;e+Curso+ADS+na+SPTECH!)](https://git.io/typing-svg)
 
 <div align="center">
    <img height="350px" src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
