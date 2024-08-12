@@ -1,28 +1,35 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:BFDAD7F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BFDAD7F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C3D&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Deivid;E+sou+desenvolvedor+FullStack)](https://git.io/typing-svg)
+## Olá, Eu sou o Deivid
+<ul>
+   <li>Técnico em Desenvolvimento de Sistemas</li>
+   <li>Estudante de Engenharia de Software</li>
+</ul>
+
 
 <div align="center">
-   <img height="350px" src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=dark">
 </div>
 <br>
 <br>
 
-#
+##
+
+### Tecnologias na qual já utilizei
 <div>
-   <p align="center">
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />   
+   <p>
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />   
    </p>
 </div>
 
+##
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:BFDAD7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BFDAD7F&height=120&section=footer"/>
