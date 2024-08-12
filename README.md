@@ -5,10 +5,8 @@
 <ul>
    <li>Técnico em Desenvolvimento de Sistemas</li>
    <li>Estudante de Engenharia de Software</li>
+   <li>Linkdln : Deivid Menezes </li>
    <br>
-
-   
-   [![LinkedIn](https://img.shields.io/badge/-%20%20linkedin-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/deivid-menezes11)
 </ul>
 
 
