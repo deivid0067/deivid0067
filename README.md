@@ -1,14 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF,100:BFDAD7F&height=120&section=header"/>
 
 ## Olá, Eu sou o Deivid
+
 <ul>
    <li>Técnico em Desenvolvimento de Sistemas</li>
    <li>Estudante de Engenharia de Software</li>
+   <br>
+
+   
+   [![LinkedIn](https://img.shields.io/badge/-%20%20linkedin-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/deivid-menezes11)
 </ul>
 
 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0067&show_icons=true&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0067&layout=compact&theme=dark">
+   
 </div>
 <br>
 <br>
