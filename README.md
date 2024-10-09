@@ -30,3 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=idea,neovim,vscode,eclipse,git,github,ubuntu)](https://skillicons.dev)
 
 </div>
+
+### 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deivid-menezes11)
