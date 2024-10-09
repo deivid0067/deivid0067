@@ -2,7 +2,7 @@
 ## Olá, Eu sou o Deivid
 
 <div align="center">
-   <img width="760px" height="500px" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
+   <img width="760px" height="400px" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif">
 </div>
 
 <div align="center">
