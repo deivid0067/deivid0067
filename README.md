@@ -15,15 +15,22 @@
 
 ##
 
+<div align="center">
+   
 ### 💻 HardSkills
+
+</div>
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,java,mysql,postgres,figma,tailwind)](https://skillicons.dev)
 </div>
 
+<div align="center">
 
 ### ☕ Development Tools
+
+</div>
 
 <div align="center">
    
@@ -31,7 +38,10 @@
 
 </div>
 
+<div align="center">
+   
 ### 🌐 Social
+</div>
 
 <div align="center">
    
